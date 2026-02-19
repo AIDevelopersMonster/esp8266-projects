@@ -8,4 +8,4 @@ If you are just starting with ESP8266 and need a nice kit to get started have a 
 https://blog.squix.org/product/weatherstation-kit-w-white-oled
 By buying the kit from me you are supporting future development. Thank you!
 
-[![Squix ESP8266 WeatherStation Classic Kit](https://blog.squix.org/wp-content/uploads/2016/12/Components4-300x300.jpg)](https://blog.squix.org/product/weatherstation-kit-w-white-oled)
+
