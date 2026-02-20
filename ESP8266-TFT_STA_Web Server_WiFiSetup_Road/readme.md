@@ -1,6 +1,5 @@
 
 
-````markdown
 # 🚦 ESP8266 TFT Traffic Control Panel (Wi-Fi + Web GUI)
 
 A smart IoT project using **ESP8266 + TFT ST7735 display**.
