@@ -119,7 +119,14 @@ Arduino IDE → Инструменты:
 
 ## 📺 Видео по проекту
 
-(сюда можно вставить ссылку на YouTube)
+## 🎬 Project Video (Кнопка  RESET Router)
+
+<p align="center">
+  <a href="https://youtu.be/A03AOVXD0ik">
+    <img src="https://img.youtube.com/vi/A03AOVXD0ik/maxresdefault.jpg" width="800">
+  </a>
+</p>
+
 
 ---
 
