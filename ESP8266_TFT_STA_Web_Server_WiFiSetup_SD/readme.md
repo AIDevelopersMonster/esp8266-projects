@@ -20,6 +20,21 @@ This project allows you to upload and display images on a TFT screen directly vi
 
 ---
 
+
+## 📺 Видео по проекту
+
+## 🎬 Project Video (Кнопка  RESET Router)
+
+<p align="center">
+  <a href="https://youtu.be/9O9KgW0E3Iw">
+    <img src="https://img.youtube.com/vi/9O9KgW0E3Iw/maxresdefault.jpg" width="800">
+  </a>
+</p>
+
+
+---
+
+
 ## 🖥 Демонстрация работы
 
 1. Открываем веб-интерфейс:
