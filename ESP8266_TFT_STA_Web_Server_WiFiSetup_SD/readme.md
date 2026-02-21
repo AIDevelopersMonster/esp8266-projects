@@ -1,4 +1,12 @@
+---
 
+# ESP8266 TFT Web Image Loader
+
+A web-controlled TFT display project built on **ESP8266 + ST7735 + SD Card**.
+
+This project allows you to upload and display images on a TFT screen directly via a web browser over WiFi — no firmware reflash required, no PC software needed.
+
+---
 ## 🚀 Особенности
 
 * 📡 WiFi STA + автоматический AP provisioning
